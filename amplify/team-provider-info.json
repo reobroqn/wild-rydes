@@ -8,7 +8,7 @@
       "DeploymentBucketName": "amplify-wildrydes-prod-d74ec-deployment",
       "UnauthRoleName": "amplify-wildrydes-prod-d74ec-unauthRole",
       "StackName": "amplify-wildrydes-prod-d74ec",
-      "StackId": "arn:aws:cloudformation:us-east-1:940751087870:stack/amplify-wildrydes-prod-d74ec/a2b57b90-8d53-11f0-ac9e-0e501d1dc595",
+      "StackId": "arn:aws:cloudformation:us-east-1:940751087870:stack/amplify-wildrydes-prod-d74ec/f790f150-8fd6-11f0-be58-0e23721b8ad3",
       "AmplifyAppId": "djc96pqpvk5mm"
     },
     "categories": {
